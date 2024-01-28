@@ -1,4 +1,4 @@
-# Django-test-project-files
+# Django-test-project-tests
 Это тестовый проект, который иллюстрирует мою работу с тестами в фреймворке Django.
 
 ## Установка
@@ -16,7 +16,7 @@
 
 ---
 
-# Django-test-project-files
+# Django-test-project-tests
 This is a test project that illustrates my work with tests in the Django framework.
 
 ## Installation
